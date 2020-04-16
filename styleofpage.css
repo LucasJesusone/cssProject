@@ -1,0 +1,32 @@
+li {
+    color: #ff1345;
+    font-size: 25px;
+    font-style: italic;
+}
+
+h1 {
+    text-align: center;
+    color: #000000;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+p {
+    font-style: oblique;
+    font-size: small;
+}
+
+body{
+    background-image: url("falcon_9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sometimes-one {                
+color: blue;
+}
+
+#One {
+    font-size: 30px;
+}
